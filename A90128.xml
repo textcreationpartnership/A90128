@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The old malignant in new apparrell, discovered by the marks of malignancy given in the declarations, remonstrances, orders, ordinances, votes, &amp;c. of one or both the honorable Houses of Parliament, and in their articles against Thomas Earl of Strafford, &amp;c. and against William Laud Archbishop of Canterbury whom they put to death for malignancy.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90128</idno><idno type="EEBO-CITATION">99863160</idno>
+  <idno type="VID">161860</idno>
+  <idno type="EEBO-PROQUEST">2248532552</idno>
+  
+            <idno type="STC">Wing O206</idno>
+            <idno type="STC">Thomason E449_17</idno>
+            <idno type="PROQUEST">99863160</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99863160e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90128)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161860)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E449[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The old malignant in new apparrell, discovered by the marks of malignancy given in the declarations, remonstrances, orders, ordinances, votes, &amp;c. of one or both the honorable Houses of Parliament, and in their articles against Thomas Earl of Strafford, &amp;c. and against William Laud Archbishop of Canterbury whom they put to death for malignancy.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for L.F.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Variant: title has "honorble".</note>
+                  <note>Annotation on Thomason copy: "June 22th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Laud, William, 1573-1645.</term>
+               <term type="personal_name">Strafford, Thomas Wentworth, --  Earl of, 1593-1641.</term>
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161860:1"/>
+            <p>The Old Malignant IN New Apparrell, Discovered by the <hi>MARKS</hi> of <hi>MALIGNANCY</hi> given in the <hi>Declarations, Remonstrances, Orders, Ordinances, Votes, &amp;c.</hi>
+            </p>
+            <p>Of one or both the honorable Houses of Parlia<g ref="char:EOLhyphen"/>ment, and in their Articles against <hi>Thomas Earl of Strafford, &amp;c.</hi> and against <hi>William Laud Archbishop of Canterbury</hi> whom they put to death for Malignancy.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>L. F.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161860:2"/>
+            <pb n="3" facs="tcp:161860:2"/>
+            <p n="1">1 <hi>TO endeavour to subvert the fundamentall Laws and Government of this Kingdome,</hi> which is or ought to be by King, Lords, and Commons. The first Article against the Earl of Strafford, and the first article against Will. Laud, Archbishop of Canterbury.</p>
+            <p n="2">2. <hi>To endeavour to introduce an arbitrary and tyrannical Government against Law.</hi> Ibid.</p>
+            <p n="3">3. <hi>To hinder the Reformation of Religion.</hi> Nationall Covenant Article 4.</p>
+            <p n="4">4 <hi>To endeavor to stir up enmity and hostility be<g ref="char:EOLhyphen"/>tween his Ma<seg rend="sup">ties</seg> subjects of</hi> England &amp; Scotland Artic 5. against E. of Strafford, Artic. 13. against Wil. Laud Archbishop: Solemn league and Covenant, Art. 4.</p>
+            <p n="5">5 <hi>To countenance or favor the</hi> Rebellion <hi>in</hi> Ireland, <hi>or to hinder &amp; retard help from the poor</hi> Protestants <hi>there, seeing the religion that we pro<g ref="char:EOLhyphen"/>fess lyes at the stake, and many thousands of our</hi> poor brethren <hi>are in apparent danger, nor can we expect that God wil bless us if we be wanting to them</hi> Votes March 16. 1641. Collection of Ord. p. 115. Declar. Col. p. 97, &amp;c. Declar. June 16. 1643. Declar. May 19. 1642. Col. p. 199. &amp; Declar. May 26. Col. p. 689.</p>
+            <p n="6">6 <hi>To be guilty of his Majesties absence from his
+<pb n="4" facs="tcp:161860:3"/>Parliament which is not only an obstruction but may be a destruction to the affairs of Jreland, an hazard to this Kingdom and a great prejudice to the procee<g ref="char:EOLhyphen"/>dings of Parliament.</hi> Votes Mar. 1. 1641. Col. p, 95. Remonst. 3. Col. p. 271. Votes March 16. 1641. Col. p. 114, 115</p>
+            <p n="7">7 <hi>To make division between the King and his peo<g ref="char:EOLhyphen"/>ple by laboring to beget in them an evil opinion one of another.</hi> Solemn League and Covenant, art. 4. <hi>&amp;c.</hi> Art <hi>ult.</hi> against <hi>W. L.</hi> Archbishop.</p>
+            <p n="8">8 <hi>To endevour the bringing up of an Army to force or aw the Parliament, for if Parliaments be forced then farewel all other Parliaments, farewel Laws, farewel Liberties.</hi> Remonstr. 3. Decl. in Col. p. 396. Declar. May 26. 1642. Col. p. 695, 723.</p>
+            <p n="9">9 <hi>To endevor to subvert the rights of Parliaments and the ancient course of Parliamentary proceeding</hi> Art. 7. against <hi>E.</hi> of Strafford and <hi>Art.</hi> 14 against <hi>W. L.</hi> Archbishop.</p>
+            <p n="10">10 <hi>To demand Members of both or either House, there being no legal charge nor accusation against them, seeing by this means under false pretences of
+<pb n="5" facs="tcp:161860:3"/>crimes and accusations such and so many Members of both or either House may be taken out at any time by any persons to serve a turn and to make a major part of it of whom they will at pleasure</hi> Decl. Com. Ian. 5. 1641. Col. p. 39; 40. Petit. march 1 Col. p. 93. Declar. may 19. 1642 col. p. 201</p>
+            <p n="11">11 <hi>To declare and publish Parliament-men tray<g ref="char:EOLhyphen"/>tors whether the accusation be true or false without due process of Law.</hi> Petit. of Lords &amp; Com. Feb. 2. 1641: Col: p: 67: Votes April 28: 1642: Col: p, 162: Declar: May 19, 1642: Col, p, 201</p>
+            <p n="12">12 <hi>To arrest and detain a Member or Members of either House without acquainting the house there with</hi> Remonst. 1. Col. p. 6. Decl. com. Ian. 3. 1641. Col. p. 35. &amp; Ian. 17: 1641: Col: p, 39</p>
+            <p n="13">13 <hi>To judg Parliament-men for their Debates and Propositions in the Houses it belonging to the several Houses respectively to judg and determine such errors and offences.</hi> Petit. of Lords and Com. Decemb. 14. 1741.</p>
+            <p n="14">14 <hi>To endeavor to altar Gods true Religion by Law established in this Realm and to declare and maintain popish doctrine and opinions.</hi>
+            </p>
+            <pb n="6" facs="tcp:161860:4"/>
+            <p n="15">15 <hi>To have domesticall Chaplaines notoriously disaffected to the reformed religion.</hi>
+            </p>
+            <p n="16">16 <hi>To prefer to great promotions in the Church such as are Popish or otherways unsound or corrupt in Doctrine or life as Socinians, Arminians, &amp;c.</hi> Artic. 7, 8.9. against Will. Laud, Archbishop Cant.</p>
+            <p n="17">17 <hi>To disapprove or refuse to take the</hi> National Covenant, <hi>or otherwise to oppose and break it wil<g ref="char:EOLhyphen"/>fully; such are not to be confided in, in the Armies,</hi> Declar. Septemb. 20. 1643. Col. p. 327.</p>
+            <p n="18">18 <hi>To say, that those that stay in the Houses dis<g ref="char:EOLhyphen"/>charging their trust when others disert it, are not the Houses, but a faction, because they wil not do or leave undone whatsoever these new controllers of a Parliament suggest — as fit or not fit to be done — their design is to subject both King, Parliament &amp; Kingdome to the needy avaricious and ambitious spirits and to the violent law, Marshall law of go<g ref="char:EOLhyphen"/>verning the people by a gard and by the Souldiers,</hi> Declarat. May 26. 1642. Col: p. 688, 689:</p>
+            <p n="19">19 <hi>To endeavour by letters, messages, threats, pro<g ref="char:EOLhyphen"/>mises, to interrupt &amp; pervert the Courts of Justice at Westminster &amp; other Courts to the subversion of the laws of the Kingdom,</hi> Art 3. against Archb<seg rend="sup">p</seg>
+            </p>
+            <pb n="7" facs="tcp:161860:4"/>
+            <p n="20">20 <hi>To burden the Kingdom with</hi> free quarter <hi>and other</hi> taxes <hi>levyen by the Souldiery without consent of Parliament,</hi> Art. 1. <hi>W. L.</hi> art. 15. <hi>E.</hi> Stra.</p>
+            <p n="21">21 <hi>To detain a great part of his Majesties revenue without giving legal account:</hi> 22 <hi>And to take great sums out of the Exchequer converting them to his own use.</hi> Art. 3. against <hi>E.</hi> of Strafford.</p>
+            <p n="23">23 <hi>To put out persons of honour and trust from being Constables or Lieutenants of the</hi> tower of London, <hi>and put in such as are not confided in.</hi>
+            </p>
+            <p n="24">24 <hi>To</hi> garrison <hi>Whitehall, and to bring doubt<g ref="char:EOLhyphen"/>full and unknown persons to be about Whitehal and</hi> Westminster: Petition of L. Mayor Aldermen and com: Councel, Col. p. 46. Pet. of Lords &amp; Com. Jan: 28, 1641:</p>
+            <p n="25">25 <hi>To preiudice the Kingdom by discrediting the mint and hindring the importation of Bullion.</hi>
+            </p>
+            <p n="26">26 <hi>To cause divisions and discord between the Churh of England and other Reformed Churches in France, Low Countries.</hi> Art. 12. against Arch<g ref="char:EOLhyphen"/>bishop.</p>
+            <p n="27">27 <hi>To raise factions in the City of London or o<g ref="char:EOLhyphen"/>ther parts of the Kingdome contrary to our Solemn League and Covenant.</hi>
+            </p>
+            <pb n="8" facs="tcp:161860:5"/>
+            <p n="28">28 <hi>To endeavour not onely to question but over<g ref="char:EOLhyphen"/>throw the</hi> Charter <hi>of that City.</hi>
+            </p>
+            <p n="29">29 <hi>To mount the</hi> great peeces of battery <hi>in the</hi> tower <hi>against the City, and to endevor to ex<g ref="char:EOLhyphen"/>pose the wealth of it as a</hi> prey <hi>to desperate and necessitous</hi> persons: Solemn League and Co-Art; 4 Decl; March 2, 1642 Col, p, 98; Decl; June 21, Col, p, 377</p>
+            <p n="30">30 <hi>To infuse into the people that the</hi> Parliament <hi>means to abolish all</hi> Church Government <hi>and leave every man to his own fancy for the</hi> service <hi>and</hi> worship <hi>of God, absolving him of that obedience which he owes under God to his Majesty</hi> — to destroy and discourage learning — <hi>to oc<g ref="char:EOLhyphen"/>casion and favour</hi> Sectaries <hi>and</hi> Conventicles; Remost. 1; Col, p, 19; 20</p>
+            <p>
+               <hi>Finally, to bring the Kingdom into so sad a con<g ref="char:EOLhyphen"/>dition, that whatsoever is precious to men of consci<g ref="char:EOLhyphen"/>ence and honor as Religion, Liberty, publick safety, are like to be overwhelmed and lost in the general confusion and calamity of the Kingdom:</hi> Declar, June 21. Col: p: 377.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
